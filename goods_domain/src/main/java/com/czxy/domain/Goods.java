@@ -7,7 +7,7 @@ import javax.persistence.Table;
 import java.util.Date;
 
 /**
- * 测试
+ * 测试111
  */
 @Table(name = "tbl_goods")
 public class Goods {
