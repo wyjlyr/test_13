@@ -5,6 +5,7 @@ import javax.persistence.Table;
 
 /**
  * Created by Administrator on 2020/8/7 0007.
+ * wanyijie;
  */
 @Table(name = "tbl_category")
 public class Category {
